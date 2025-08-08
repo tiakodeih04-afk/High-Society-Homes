@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>High Society Homes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff;
+      color: #000;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to High Society Homes</h1>
+
+  <script>
+    console.log('High Society Homes site loaded');
+  </script>
+</body>
+</html>
