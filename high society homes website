@@ -1,1 +1,3 @@
-<!DOCTYPE html><html><head><title>High Society Homes</title></head><body><h1>Welcome to High Society Homes</h1></body></html>console.log('High Society Homes site loaded');body { font-family: Arial, sans-serif; background: #fff; color: #000; }
+<!DOCTYPE html><html><head><title>High Society Homes</title></head><body><h1>Welcome to High Society Homes</h1></body></html>
+console.log('High Society Homes site loaded');
+body { font-family: Arial, sans-serif; background: #fff; color: #000; }
